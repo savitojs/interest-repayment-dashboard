@@ -1,0 +1,1786 @@
+{
+  "upcomingRepayments": {
+    "totalRepaymentNextMonth": 7365.24,
+    "totalRepaymentNextMonthAfterTds": 6899.16,
+    "totalRepaymentAllTime": 1552893.68,
+    "totalRepaymentAllTimeAfterTds": 1857519.33,
+    "totalRepaymentThisMonth": 0.0,
+    "totalRepaymentThisMonthAfterTds": 0.0,
+    "totalRepaymentThisFinancialYear": 543230.77,
+    "totalRepaymentThisFinancialYearAfterTds": 480991.91,
+    "repaymentsList": [
+      {
+        "productId": 771,
+        "productName": "ABC Bond May'25",
+        "scripCode": "7866JQQ",
+        "entityName": "company_a",
+        "repaymentDate": 1750876200000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 3584.86,
+        "tdsPercentage": 10.0,
+        "tdsValue": 471.48,
+        "totalRepaymentBeforeTds": 4243.34,
+        "totalRepaymentAfterTds": 3647.94,
+        "totalQuantity": 700,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx8110",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          4,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 767,
+        "productName": "ABC Bond May'25",
+        "scripCode": "5171UDN",
+        "entityName": "company_a",
+        "repaymentDate": 1753381800000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 4566.72,
+        "tdsPercentage": 10.0,
+        "tdsValue": 503.58,
+        "totalRepaymentBeforeTds": 3606.32,
+        "totalRepaymentAfterTds": 3106.52,
+        "totalQuantity": 675,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx0839",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 163,
+        "productName": "ABC Bond May'25",
+        "scripCode": "1741XZG",
+        "entityName": "company_a",
+        "repaymentDate": 1755887400000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 4401.6,
+        "tdsPercentage": 10.0,
+        "tdsValue": 460.95,
+        "totalRepaymentBeforeTds": 3379.16,
+        "totalRepaymentAfterTds": 3067.59,
+        "totalQuantity": 718,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx0335",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 537,
+        "productName": "ABC Bond May'25",
+        "scripCode": "3549IXS",
+        "entityName": "company_a",
+        "repaymentDate": 1758479400000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 4913.42,
+        "tdsPercentage": 10.0,
+        "tdsValue": 371.85,
+        "totalRepaymentBeforeTds": 3703.69,
+        "totalRepaymentAfterTds": 4896.94,
+        "totalQuantity": 717,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx2187",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 310,
+        "productName": "ABC Bond May'25",
+        "scripCode": "8443JNX",
+        "entityName": "company_a",
+        "repaymentDate": 1761330600000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 4215.46,
+        "tdsPercentage": 10.0,
+        "tdsValue": 486.15,
+        "totalRepaymentBeforeTds": 4008.96,
+        "totalRepaymentAfterTds": 4706.14,
+        "totalQuantity": 615,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx8769",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 588,
+        "productName": "ABC Bond May'25",
+        "scripCode": "5481IDZ",
+        "entityName": "company_a",
+        "repaymentDate": 1764095400000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 5219.3,
+        "tdsPercentage": 10.0,
+        "tdsValue": 421.46,
+        "totalRepaymentBeforeTds": 5219.43,
+        "totalRepaymentAfterTds": 3643.72,
+        "totalQuantity": 650,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx8234",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 385,
+        "productName": "ABC Bond May'25",
+        "scripCode": "6259KNR",
+        "entityName": "company_a",
+        "repaymentDate": 1766428200000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 4380.87,
+        "tdsPercentage": 10.0,
+        "tdsValue": 405.7,
+        "totalRepaymentBeforeTds": 3617.12,
+        "totalRepaymentAfterTds": 3578.05,
+        "totalQuantity": 662,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx1626",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 645,
+        "productName": "ABC Bond May'25",
+        "scripCode": "4770HCL",
+        "entityName": "company_a",
+        "repaymentDate": 1769452200000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 5234.0,
+        "tdsPercentage": 10.0,
+        "tdsValue": 553.32,
+        "totalRepaymentBeforeTds": 4966.83,
+        "totalRepaymentAfterTds": 4956.41,
+        "totalQuantity": 596,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx4403",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 430,
+        "productName": "ABC Bond May'25",
+        "scripCode": "4822HZJ",
+        "entityName": "company_a",
+        "repaymentDate": 1771785000000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 3749.64,
+        "tdsPercentage": 10.0,
+        "tdsValue": 483.66,
+        "totalRepaymentBeforeTds": 3812.12,
+        "totalRepaymentAfterTds": 4986.85,
+        "totalQuantity": 658,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx6169",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 161,
+        "productName": "ABC Bond May'25",
+        "scripCode": "3940PAT",
+        "entityName": "company_a",
+        "repaymentDate": 1774031400000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 3679.16,
+        "tdsPercentage": 10.0,
+        "tdsValue": 457.85,
+        "totalRepaymentBeforeTds": 4615.06,
+        "totalRepaymentAfterTds": 4296.04,
+        "totalQuantity": 600,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx7087",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 133,
+        "productName": "ABC Bond May'25",
+        "scripCode": "3541VZP",
+        "entityName": "company_a",
+        "repaymentDate": 1776882600000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 3787.53,
+        "tdsPercentage": 10.0,
+        "tdsValue": 385.77,
+        "totalRepaymentBeforeTds": 5142.23,
+        "totalRepaymentAfterTds": 3468.99,
+        "totalQuantity": 678,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx7186",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 857,
+        "productName": "ABC Bond May'25",
+        "scripCode": "3541ZZD",
+        "entityName": "company_a",
+        "repaymentDate": 1779474600000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 5242.01,
+        "tdsPercentage": 10.0,
+        "tdsValue": 402.02,
+        "totalRepaymentBeforeTds": 3730.52,
+        "totalRepaymentAfterTds": 4008.51,
+        "totalQuantity": 677,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx7108",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 442,
+        "productName": "ABC Bond May'25",
+        "scripCode": "2901UXA",
+        "entityName": "company_a",
+        "repaymentDate": 1782239400000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 3818.78,
+        "tdsPercentage": 10.0,
+        "tdsValue": 348.43,
+        "totalRepaymentBeforeTds": 5199.37,
+        "totalRepaymentAfterTds": 3381.61,
+        "totalQuantity": 598,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx1489",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 603,
+        "productName": "ABC Bond May'25",
+        "scripCode": "5229QKH",
+        "entityName": "company_a",
+        "repaymentDate": 1784745000000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 4093.2,
+        "tdsPercentage": 10.0,
+        "tdsValue": 503.39,
+        "totalRepaymentBeforeTds": 3497.34,
+        "totalRepaymentAfterTds": 4355.65,
+        "totalQuantity": 696,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx7542",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 190,
+        "productName": "ABC Bond May'25",
+        "scripCode": "8413OYE",
+        "entityName": "company_a",
+        "repaymentDate": 1787596200000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 4788.95,
+        "tdsPercentage": 10.0,
+        "tdsValue": 436.58,
+        "totalRepaymentBeforeTds": 5235.99,
+        "totalRepaymentAfterTds": 3319.42,
+        "totalQuantity": 676,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx9934",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 365,
+        "productName": "ABC Bond May'25",
+        "scripCode": "7179YKS",
+        "entityName": "company_a",
+        "repaymentDate": 1790101800000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 3641.7,
+        "tdsPercentage": 10.0,
+        "tdsValue": 381.62,
+        "totalRepaymentBeforeTds": 5273.2,
+        "totalRepaymentAfterTds": 4964.71,
+        "totalQuantity": 706,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx2400",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 452,
+        "productName": "ABC Bond May'25",
+        "scripCode": "7550LFX",
+        "entityName": "company_a",
+        "repaymentDate": 1792866600000,
+        "status": "UPCOMING",
+        "principalRepayment": 631508.15,
+        "interestRepayment": 4673.01,
+        "tdsPercentage": 10.0,
+        "tdsValue": 532.15,
+        "totalRepaymentBeforeTds": 466780.99,
+        "totalRepaymentAfterTds": 478865.82,
+        "totalQuantity": 684,
+        "repaymentType": "PRINCIPAL+INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx7075",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 836,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "4771YOFSG",
+        "entityName": "company_b",
+        "repaymentDate": 1750271400000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 2422.93,
+        "tdsPercentage": 10.0,
+        "tdsValue": 252.05,
+        "totalRepaymentBeforeTds": 2606.88,
+        "totalRepaymentAfterTds": 1712.72,
+        "totalQuantity": 27,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx1059",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          4,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 185,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "1431JEBCX",
+        "entityName": "company_b",
+        "repaymentDate": 1752949800000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 2599.09,
+        "tdsPercentage": 10.0,
+        "tdsValue": 244.54,
+        "totalRepaymentBeforeTds": 1965.54,
+        "totalRepaymentAfterTds": 2260.99,
+        "totalQuantity": 27,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx3774",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 925,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "2955BDGYK",
+        "entityName": "company_b",
+        "repaymentDate": 1755973800000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 2239.85,
+        "tdsPercentage": 10.0,
+        "tdsValue": 207.72,
+        "totalRepaymentBeforeTds": 2111.18,
+        "totalRepaymentAfterTds": 1690.86,
+        "totalQuantity": 29,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx2111",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 679,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "3384KTHPK",
+        "entityName": "company_b",
+        "repaymentDate": 1758393000000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 2583.31,
+        "tdsPercentage": 10.0,
+        "tdsValue": 218.43,
+        "totalRepaymentBeforeTds": 2251.36,
+        "totalRepaymentAfterTds": 1501.89,
+        "totalQuantity": 30,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx5340",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 410,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "8328HGERV",
+        "entityName": "company_b",
+        "repaymentDate": 1761244200000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1933.04,
+        "tdsPercentage": 10.0,
+        "tdsValue": 247.3,
+        "totalRepaymentBeforeTds": 2298.85,
+        "totalRepaymentAfterTds": 1619.89,
+        "totalQuantity": 28,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx8567",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 248,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "5979DFSVH",
+        "entityName": "company_b",
+        "repaymentDate": 1763663400000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1703.19,
+        "tdsPercentage": 10.0,
+        "tdsValue": 249.86,
+        "totalRepaymentBeforeTds": 1997.26,
+        "totalRepaymentAfterTds": 2088.92,
+        "totalQuantity": 27,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx1492",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 934,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "1342UXFRX",
+        "entityName": "company_b",
+        "repaymentDate": 1766255400000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 2471.57,
+        "tdsPercentage": 10.0,
+        "tdsValue": 158.66,
+        "totalRepaymentBeforeTds": 2041.67,
+        "totalRepaymentAfterTds": 1780.66,
+        "totalQuantity": 27,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx7369",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 268,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "3064HMPVU",
+        "entityName": "company_b",
+        "repaymentDate": 1769106600000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 2582.73,
+        "tdsPercentage": 10.0,
+        "tdsValue": 207.09,
+        "totalRepaymentBeforeTds": 2687.49,
+        "totalRepaymentAfterTds": 1777.47,
+        "totalQuantity": 27,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx3985",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 328,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "4747MYVBV",
+        "entityName": "company_b",
+        "repaymentDate": 1771871400000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 2435.33,
+        "tdsPercentage": 10.0,
+        "tdsValue": 259.58,
+        "totalRepaymentBeforeTds": 1762.87,
+        "totalRepaymentAfterTds": 1932.08,
+        "totalQuantity": 32,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx0767",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 552,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "4330KZWDW",
+        "entityName": "company_b",
+        "repaymentDate": 1774117800000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 2311.37,
+        "tdsPercentage": 10.0,
+        "tdsValue": 155.19,
+        "totalRepaymentBeforeTds": 2231.29,
+        "totalRepaymentAfterTds": 2087.55,
+        "totalQuantity": 32,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx7117",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 645,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "5192OXIDT",
+        "entityName": "company_b",
+        "repaymentDate": 1776450600000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 2305.69,
+        "tdsPercentage": 10.0,
+        "tdsValue": 165.86,
+        "totalRepaymentBeforeTds": 1659.15,
+        "totalRepaymentAfterTds": 1759.67,
+        "totalQuantity": 30,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx9634",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 956,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "2923OUDPD",
+        "entityName": "company_b",
+        "repaymentDate": 1779042600000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 2099.93,
+        "tdsPercentage": 10.0,
+        "tdsValue": 241.35,
+        "totalRepaymentBeforeTds": 1706.16,
+        "totalRepaymentAfterTds": 1836.36,
+        "totalQuantity": 32,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx1481",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 377,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "4636KCHHZ",
+        "entityName": "company_b",
+        "repaymentDate": 1781980200000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 2316.06,
+        "tdsPercentage": 10.0,
+        "tdsValue": 255.82,
+        "totalRepaymentBeforeTds": 1907.76,
+        "totalRepaymentAfterTds": 1640.41,
+        "totalQuantity": 28,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx9266",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 980,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "6364GYVLB",
+        "entityName": "company_b",
+        "repaymentDate": 1784399400000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1867.21,
+        "tdsPercentage": 10.0,
+        "tdsValue": 222.18,
+        "totalRepaymentBeforeTds": 2159.62,
+        "totalRepaymentAfterTds": 2256.51,
+        "totalQuantity": 28,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx5950",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 588,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "4556POTZC",
+        "entityName": "company_b",
+        "repaymentDate": 1787509800000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 2250.8,
+        "tdsPercentage": 10.0,
+        "tdsValue": 165.04,
+        "totalRepaymentBeforeTds": 1979.3,
+        "totalRepaymentAfterTds": 1656.88,
+        "totalQuantity": 32,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx2571",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 792,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "2957SDQNP",
+        "entityName": "company_b",
+        "repaymentDate": 1789756200000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1953.62,
+        "tdsPercentage": 10.0,
+        "tdsValue": 264.16,
+        "totalRepaymentBeforeTds": 2216.85,
+        "totalRepaymentAfterTds": 1697.49,
+        "totalQuantity": 29,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx6014",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 305,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "1681BKIMU",
+        "entityName": "company_b",
+        "repaymentDate": 1792348200000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1715.64,
+        "tdsPercentage": 10.0,
+        "tdsValue": 233.51,
+        "totalRepaymentBeforeTds": 2305.38,
+        "totalRepaymentAfterTds": 1594.74,
+        "totalQuantity": 30,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx4523",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 830,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "9491PMWPU",
+        "entityName": "company_b",
+        "repaymentDate": 1795372200000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 2429.77,
+        "tdsPercentage": 10.0,
+        "tdsValue": 168.68,
+        "totalRepaymentBeforeTds": 2642.57,
+        "totalRepaymentAfterTds": 1981.64,
+        "totalQuantity": 28,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx3249",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 209,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "8265RRHCS",
+        "entityName": "company_b",
+        "repaymentDate": 1797705000000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1577.04,
+        "tdsPercentage": 10.0,
+        "tdsValue": 174.28,
+        "totalRepaymentBeforeTds": 2384.14,
+        "totalRepaymentAfterTds": 2287.91,
+        "totalQuantity": 30,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx9783",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 735,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "3230XJGFY",
+        "entityName": "company_b",
+        "repaymentDate": 1800729000000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1908.27,
+        "tdsPercentage": 10.0,
+        "tdsValue": 163.81,
+        "totalRepaymentBeforeTds": 1809.53,
+        "totalRepaymentAfterTds": 1799.78,
+        "totalQuantity": 29,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx7688",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 426,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "8791SHMOT",
+        "entityName": "company_b",
+        "repaymentDate": 1803148200000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1710.33,
+        "tdsPercentage": 10.0,
+        "tdsValue": 169.57,
+        "totalRepaymentBeforeTds": 1754.02,
+        "totalRepaymentAfterTds": 1551.78,
+        "totalQuantity": 28,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx4976",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 441,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "9599NHLRY",
+        "entityName": "company_b",
+        "repaymentDate": 1805394600000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 2238.29,
+        "tdsPercentage": 10.0,
+        "tdsValue": 159.91,
+        "totalRepaymentBeforeTds": 1966.85,
+        "totalRepaymentAfterTds": 1792.76,
+        "totalQuantity": 27,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx0504",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 253,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "8622FCSVD",
+        "entityName": "company_b",
+        "repaymentDate": 1808332200000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 2053.33,
+        "tdsPercentage": 10.0,
+        "tdsValue": 180.27,
+        "totalRepaymentBeforeTds": 1746.25,
+        "totalRepaymentAfterTds": 2358.16,
+        "totalQuantity": 30,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx3138",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 377,
+        "productName": "XYZ Bond May'25",
+        "scripCode": "5226QPZNP",
+        "entityName": "company_b",
+        "repaymentDate": 1810751400000,
+        "status": "UPCOMING",
+        "principalRepayment": 228903.39,
+        "interestRepayment": 1793.38,
+        "tdsPercentage": 10.0,
+        "tdsValue": 229.95,
+        "totalRepaymentBeforeTds": 253026.07,
+        "totalRepaymentAfterTds": 244212.19,
+        "totalQuantity": 29,
+        "repaymentType": "PRINCIPAL+INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx0607",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 148,
+        "productName": "XYZ Bond Jan'25",
+        "scripCode": "8713PPTNBX",
+        "entityName": "company_b",
+        "repaymentDate": 1755109800000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 18866.33,
+        "tdsPercentage": 10.0,
+        "tdsValue": 1591.66,
+        "totalRepaymentBeforeTds": 17345.83,
+        "totalRepaymentAfterTds": 15291.63,
+        "totalQuantity": 1,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx9587",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 758,
+        "productName": "XYZ Bond Jan'25",
+        "scripCode": "5462COOGGZ",
+        "entityName": "company_b",
+        "repaymentDate": 1771007400000,
+        "status": "UPCOMING",
+        "principalRepayment": 158371.94,
+        "interestRepayment": 8951.9,
+        "tdsPercentage": 10.0,
+        "tdsValue": 874.69,
+        "totalRepaymentBeforeTds": 202509.14,
+        "totalRepaymentAfterTds": 195665.68,
+        "totalQuantity": 1,
+        "repaymentType": "PRINCIPAL+INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx0433",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 704,
+        "productName": "XYZ Bond Sep'24",
+        "scripCode": "4826REJZM",
+        "entityName": "company_b",
+        "repaymentDate": 1773599400000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 22519.88,
+        "tdsPercentage": 10.0,
+        "tdsValue": 2556.29,
+        "totalRepaymentBeforeTds": 25121.37,
+        "totalRepaymentAfterTds": 22120.93,
+        "totalQuantity": 244,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx2139",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 521,
+        "productName": "XYZ Bond Sep'24",
+        "scripCode": "6894OYHAW",
+        "entityName": "company_b",
+        "repaymentDate": 1781289000000,
+        "status": "UPCOMING",
+        "principalRepayment": 207864.39,
+        "interestRepayment": 6194.13,
+        "tdsPercentage": 10.0,
+        "tdsValue": 599.57,
+        "totalRepaymentBeforeTds": 224334.45,
+        "totalRepaymentAfterTds": 171813.61,
+        "totalQuantity": 246,
+        "repaymentType": "PRINCIPAL+INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx3530",
+          "bankLogo": "https://example.com/images/bank_logo_placeholder.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 343,
+        "productName": "XYZ Bond Jan'24",
+        "scripCode": "5682FMIBW",
+        "entityName": "company_b",
+        "repaymentDate": 1753036200000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 13100.09,
+        "tdsPercentage": 10.0,
+        "tdsValue": 1593.69,
+        "totalRepaymentBeforeTds": 12796.42,
+        "totalRepaymentAfterTds": 12605.3,
+        "totalQuantity": 205,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 967,
+        "productName": "XYZ Bond Jan'24",
+        "scripCode": "9509YJXWX",
+        "entityName": "company_b",
+        "repaymentDate": 1760725800000,
+        "status": "UPCOMING",
+        "principalRepayment": 163535.71,
+        "interestRepayment": 4028.89,
+        "tdsPercentage": 10.0,
+        "tdsValue": 441.02,
+        "totalRepaymentBeforeTds": 154965.83,
+        "totalRepaymentAfterTds": 170892.7,
+        "totalQuantity": 206,
+        "repaymentType": "PRINCIPAL+INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 442,
+        "productName": "PQR Bond Oct'23",
+        "scripCode": "1934XFVLG",
+        "entityName": "company_c",
+        "repaymentDate": 1748889000000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1284.72,
+        "tdsPercentage": 10.0,
+        "tdsValue": 134.85,
+        "totalRepaymentBeforeTds": 1460.2,
+        "totalRepaymentAfterTds": 1416.81,
+        "totalQuantity": 186,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1,
+          4,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 652,
+        "productName": "PQR Bond Oct'23",
+        "scripCode": "5586KNCEH",
+        "entityName": "company_c",
+        "repaymentDate": 1751653800000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1451.36,
+        "tdsPercentage": 10.0,
+        "tdsValue": 114.84,
+        "totalRepaymentBeforeTds": 1472.66,
+        "totalRepaymentAfterTds": 975.83,
+        "totalQuantity": 184,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 266,
+        "productName": "PQR Bond Oct'23",
+        "scripCode": "7220PVSQA",
+        "entityName": "company_c",
+        "repaymentDate": 1754245800000,
+        "status": "UPCOMING",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1652.61,
+        "tdsPercentage": 10.0,
+        "tdsValue": 123.1,
+        "totalRepaymentBeforeTds": 1214.08,
+        "totalRepaymentAfterTds": 986.39,
+        "totalQuantity": 212,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 118,
+        "productName": "PQR Bond Oct'23",
+        "scripCode": "1082STPKO",
+        "entityName": "company_c",
+        "repaymentDate": 1757356200000,
+        "status": "UPCOMING",
+        "principalRepayment": 175483.8,
+        "interestRepayment": 1490.41,
+        "tdsPercentage": 10.0,
+        "tdsValue": 160.31,
+        "totalRepaymentBeforeTds": 194352.15,
+        "totalRepaymentAfterTds": 201089.05,
+        "totalQuantity": 183,
+        "repaymentType": "PRINCIPAL+INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      }
+    ],
+    "timeRanges": {
+      "1": "ALL_TIME",
+      "2": "THIS_MONTH",
+      "4": "NEXT_MONTH",
+      "5": "THIS_FINANCIAL_YEAR"
+    },
+    "additionalInformation": {
+      "updateTextForRepayments": null,
+      "eligibleEntityRepaymentDetails": null
+    }
+  },
+  "paidRepayments": {
+    "totalRepaymentPreviousMonth": 1704.0,
+    "totalRepaymentPreviousMonthAfterTds": 1533.6,
+    "totalRepaymentAllTime": 71125.88,
+    "totalRepaymentAllTimeAfterTds": 64013.28,
+    "totalRepaymentThisMonth": 1648.0,
+    "totalRepaymentThisMonthAfterTds": 1483.2,
+    "totalRepaymentThisFinancialYear": 3352.0,
+    "totalRepaymentThisFinancialYearAfterTds": 3016.8,
+    "repaymentsList": [
+      {
+        "productId": 216,
+        "productName": "Navi Sep'24",
+        "scripCode": "1090NFL26",
+        "entityName": "navi",
+        "repaymentDate": 1741804200000,
+        "status": "TRANSFERRED",
+        "principalRepayment": 0.0,
+        "interestRepayment": 25942.0,
+        "tdsPercentage": 10.0,
+        "tdsValue": 2594.2,
+        "totalRepaymentBeforeTds": 25942.0,
+        "totalRepaymentAfterTds": 23347.8,
+        "totalQuantity": 238,
+        "repaymentType": "INTEREST",
+        "transferredTo": {
+          "accountNo": "xxxxxxxxxxx2435",
+          "bankLogo": "https://davf9otgz7zc8.cloudfront.net/images//Yes_Bank_e637632973.png"
+        },
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 74,
+        "productName": "Navi Jan'24",
+        "scripCode": "1075NFL25",
+        "entityName": "navi",
+        "repaymentDate": 1721241000000,
+        "status": "TRANSFERRED",
+        "principalRepayment": 0.0,
+        "interestRepayment": 20210.0,
+        "tdsPercentage": 10.0,
+        "tdsValue": 2021.0,
+        "totalRepaymentBeforeTds": 20210.0,
+        "totalRepaymentAfterTds": 18189.0,
+        "totalQuantity": 188,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 65,
+        "productName": "Vivriti Oct'23",
+        "scripCode": "1003VCL25",
+        "entityName": "vivriti",
+        "repaymentDate": 1709663400000,
+        "status": "TRANSFERRED",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1589.46,
+        "tdsPercentage": 10.0,
+        "tdsValue": 158.95,
+        "totalRepaymentBeforeTds": 1589.46,
+        "totalRepaymentAfterTds": 1430.51,
+        "totalQuantity": 200,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 65,
+        "productName": "Vivriti Oct'23",
+        "scripCode": "1003VCL25",
+        "entityName": "vivriti",
+        "repaymentDate": 1712341800000,
+        "status": "TRANSFERRED",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1699.08,
+        "tdsPercentage": 10.0,
+        "tdsValue": 169.91,
+        "totalRepaymentBeforeTds": 1699.08,
+        "totalRepaymentAfterTds": 1529.17,
+        "totalQuantity": 200,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 65,
+        "productName": "Vivriti Oct'23",
+        "scripCode": "1003VCL25",
+        "entityName": "vivriti",
+        "repaymentDate": 1714933800000,
+        "status": "TRANSFERRED",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1644.26,
+        "tdsPercentage": 10.0,
+        "tdsValue": 164.43,
+        "totalRepaymentBeforeTds": 1644.26,
+        "totalRepaymentAfterTds": 1479.83,
+        "totalQuantity": 200,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 65,
+        "productName": "Vivriti Oct'23",
+        "scripCode": "1003VCL25",
+        "entityName": "vivriti",
+        "repaymentDate": 1717612200000,
+        "status": "TRANSFERRED",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1699.08,
+        "tdsPercentage": 10.0,
+        "tdsValue": 169.91,
+        "totalRepaymentBeforeTds": 1699.08,
+        "totalRepaymentAfterTds": 1529.17,
+        "totalQuantity": 200,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 65,
+        "productName": "Vivriti Oct'23",
+        "scripCode": "1003VCL25",
+        "entityName": "vivriti",
+        "repaymentDate": 1720204200000,
+        "status": "TRANSFERRED",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1644.0,
+        "tdsPercentage": 10.0,
+        "tdsValue": 164.4,
+        "totalRepaymentBeforeTds": 1644.0,
+        "totalRepaymentAfterTds": 1479.6,
+        "totalQuantity": 200,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 65,
+        "productName": "Vivriti Oct'23",
+        "scripCode": "1003VCL25",
+        "entityName": "vivriti",
+        "repaymentDate": 1722882600000,
+        "status": "TRANSFERRED",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1700.0,
+        "tdsPercentage": 10.0,
+        "tdsValue": 170.0,
+        "totalRepaymentBeforeTds": 1700.0,
+        "totalRepaymentAfterTds": 1530.0,
+        "totalQuantity": 200,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 65,
+        "productName": "Vivriti Oct'23",
+        "scripCode": "1003VCL25",
+        "entityName": "vivriti",
+        "repaymentDate": 1725561000000,
+        "status": "TRANSFERRED",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1700.0,
+        "tdsPercentage": 10.0,
+        "tdsValue": 170.0,
+        "totalRepaymentBeforeTds": 1700.0,
+        "totalRepaymentAfterTds": 1530.0,
+        "totalQuantity": 200,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 65,
+        "productName": "Vivriti Oct'23",
+        "scripCode": "1003VCL25",
+        "entityName": "vivriti",
+        "repaymentDate": 1728239400000,
+        "status": "TRANSFERRED",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1648.0,
+        "tdsPercentage": 10.0,
+        "tdsValue": 164.8,
+        "totalRepaymentBeforeTds": 1648.0,
+        "totalRepaymentAfterTds": 1483.2,
+        "totalQuantity": 200,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 65,
+        "productName": "Vivriti Oct'23",
+        "scripCode": "1003VCL25",
+        "entityName": "vivriti",
+        "repaymentDate": 1730831400000,
+        "status": "TRANSFERRED",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1704.0,
+        "tdsPercentage": 10.0,
+        "tdsValue": 170.4,
+        "totalRepaymentBeforeTds": 1704.0,
+        "totalRepaymentAfterTds": 1533.6,
+        "totalQuantity": 200,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 65,
+        "productName": "Vivriti Oct'23",
+        "scripCode": "1003VCL25",
+        "entityName": "vivriti",
+        "repaymentDate": 1733423400000,
+        "status": "TRANSFERRED",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1648.0,
+        "tdsPercentage": 10.0,
+        "tdsValue": 164.8,
+        "totalRepaymentBeforeTds": 1648.0,
+        "totalRepaymentAfterTds": 1483.2,
+        "totalQuantity": 200,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 65,
+        "productName": "Vivriti Oct'23",
+        "scripCode": "1003VCL25",
+        "entityName": "vivriti",
+        "repaymentDate": 1736101800000,
+        "status": "TRANSFERRED",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1704.0,
+        "tdsPercentage": 10.0,
+        "tdsValue": 170.4,
+        "totalRepaymentBeforeTds": 1704.0,
+        "totalRepaymentAfterTds": 1533.6,
+        "totalQuantity": 200,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 65,
+        "productName": "Vivriti Oct'23",
+        "scripCode": "1003VCL25",
+        "entityName": "vivriti",
+        "repaymentDate": 1738780200000,
+        "status": "TRANSFERRED",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1704.0,
+        "tdsPercentage": 10.0,
+        "tdsValue": 170.4,
+        "totalRepaymentBeforeTds": 1704.0,
+        "totalRepaymentAfterTds": 1533.6,
+        "totalQuantity": 200,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 65,
+        "productName": "Vivriti Oct'23",
+        "scripCode": "1003VCL25",
+        "entityName": "vivriti",
+        "repaymentDate": 1741199400000,
+        "status": "TRANSFERRED",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1538.0,
+        "tdsPercentage": 10.0,
+        "tdsValue": 153.8,
+        "totalRepaymentBeforeTds": 1538.0,
+        "totalRepaymentAfterTds": 1384.2,
+        "totalQuantity": 200,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 65,
+        "productName": "Vivriti Oct'23",
+        "scripCode": "1003VCL25",
+        "entityName": "vivriti",
+        "repaymentDate": 1743964200000,
+        "status": "TRANSFERRED",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1704.0,
+        "tdsPercentage": 10.0,
+        "tdsValue": 170.4,
+        "totalRepaymentBeforeTds": 1704.0,
+        "totalRepaymentAfterTds": 1533.6,
+        "totalQuantity": 200,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1,
+          3,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      },
+      {
+        "productId": 65,
+        "productName": "Vivriti Oct'23",
+        "scripCode": "1003VCL25",
+        "entityName": "vivriti",
+        "repaymentDate": 1746469800000,
+        "status": "TRANSFERRED",
+        "principalRepayment": 0.0,
+        "interestRepayment": 1648.0,
+        "tdsPercentage": 10.0,
+        "tdsValue": 164.8,
+        "totalRepaymentBeforeTds": 1648.0,
+        "totalRepaymentAfterTds": 1483.2,
+        "totalQuantity": 200,
+        "repaymentType": "INTEREST",
+        "transferredTo": null,
+        "timeRanges": [
+          1,
+          2,
+          5
+        ],
+        "productType": "BOND",
+        "isTdsOnInterestApplicable": true,
+        "tdsExemptionThresholdAmount": 0
+      }
+    ],
+    "timeRanges": {
+      "1": "ALL_TIME",
+      "2": "THIS_MONTH",
+      "3": "PREVIOUS_MONTH",
+      "5": "THIS_FINANCIAL_YEAR"
+    },
+    "additionalInformation": {
+      "updateTextForRepayments": null,
+      "eligibleEntityRepaymentDetails": []
+    }
+  },
+  "form15GhEligibilitySummary": null,
+  "message": "success"
+}
